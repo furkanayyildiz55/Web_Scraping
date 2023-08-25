@@ -16,5 +16,5 @@ Verileri çek işlemi ile veriler HTML formatından algoritma sayesinde çekilme
 excel dosyası açılması ve verilerin excele aktarmasını sağlanmaktadır. 
 
 # Uygulama Görselleri 
-<img src="https://github.com/furkanayyildiz55/Web_Scraping/blob/main/Uygulama.png" width="450">
-<img src="https://github.com/furkanayyildiz55/Web_Scraping/blob/main/Excel.png" width="450">
+<img src="https://github.com/furkanayyildiz55/Web_Scraping/blob/main/Uygulama.png" width="900">
+<img src="https://github.com/furkanayyildiz55/Web_Scraping/blob/main/Excel.png" width="900">
