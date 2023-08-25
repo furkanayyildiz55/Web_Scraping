@@ -1,0 +1,16 @@
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\bin\Debug\WebScrapping.exe.config
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\bin\Debug\WebScrapping.exe
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\bin\Debug\WebScrapping.pdb
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\obj\Debug\WebScrapping.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\obj\Debug\WebScrapping.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\obj\Debug\WebScrapping.Form1.resources
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\obj\Debug\WebScrapping.Properties.Resources.resources
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\obj\Debug\WebScrapping.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\obj\Debug\WebScrapping.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\obj\Debug\WebScrapping.exe
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\obj\Debug\WebScrapping.pdb
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\bin\Debug\HtmlAgilityPack.xml
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\obj\Debug\WebScrapping.csproj.CopyComplete
+C:\Users\furka\Desktop\WebScrapping\WebScrapping\obj\Debug\WebScrapping.csproj.ResolveComReference.cache

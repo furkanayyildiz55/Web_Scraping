@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScrapping", "WebScrapping\WebScrapping.csproj", "{A9835F63-5DFB-4CF3-A025-A2B0036462C3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Ery Env", "Ery Env\Ery Env.vdproj", "{AC9A50BF-065A-4F23-885E-0BBB61E878E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9835F63-5DFB-4CF3-A025-A2B0036462C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9835F63-5DFB-4CF3-A025-A2B0036462C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9835F63-5DFB-4CF3-A025-A2B0036462C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9835F63-5DFB-4CF3-A025-A2B0036462C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9A50BF-065A-4F23-885E-0BBB61E878E3}.Debug|Any CPU.ActiveCfg = Debug
+		{AC9A50BF-065A-4F23-885E-0BBB61E878E3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {975AA4CC-1F5E-4467-B13A-25145E68E759}
+	EndGlobalSection
+EndGlobal
